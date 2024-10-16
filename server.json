@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "anisette",
+            "address": "https://anisette-v3-server-ocqh.onrender.com"
+        },
+    ]
+}
